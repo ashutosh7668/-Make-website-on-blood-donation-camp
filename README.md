@@ -1,3 +1,5 @@
+project link: file:///C:/Users/Saurav%20Parate/VScodeprojects/bloodcamp.html
+
 # -Make-website-on-blood-donation-camp
 <!DOCTYPE html>
 <html lang="en">
@@ -52,3 +54,4 @@
   </section>
 
   <footer class="bg-red-600 text-white py-4 text-center mt-10
+  
